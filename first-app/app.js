@@ -2,9 +2,9 @@ var logger = require('./logger.js');
 
 // console.log(logger);
 
-const logger = require('./logger.js');
+// const logger = require('./logger.js');
 
-logger = 1;
+// logger = 1;
 
 logger.log('message');
 

@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "NodeJs Lesson - Code with Mosh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crashjonaw/nodejs-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crashjonaw/nodejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/crashjonaw/nodejs-tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
